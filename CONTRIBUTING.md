@@ -36,4 +36,4 @@ If you're adding a file, make sure to include header in it. File headers are ava
 
 ## Communication
 
-Feel free to join our [Slack](https://coronalabs.com/slack/) #opensource channel or [Forums](https://forum.coronalabs.com/) to get more information on Corona code, tips how to get started and discussion.
+Feel free to join our [Slack](https://coronalabs.com/slack/) #opensource channel or [Forums](https://forums.coronalabs.com/forum/663-open-source/) to get more information on Corona code, tips how to get started and discussion.
