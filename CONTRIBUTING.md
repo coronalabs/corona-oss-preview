@@ -10,8 +10,9 @@ included in next daily build.
 
 Note, that when submitting code to Corona you would have to accept the
 Contributor License Agreement (CLA). This is necessary due to nature of Corona's
-licensing model. In general terms, you are giving non revocable rights to Corona
-to use your contributed code and license it according as all of the existing code.
+licensing model. In general terms, you are granting to Corona a copyright and a 
+patent license on your contributed code, allowing Corona to use it for its projects.
+You will keep being the only owner of such copyright and patent.
 Copy of CLA can be found in [CLA.md](CLA.md). You will be asked to sign CLA with your
 Github account when submitting the pull request.
 
