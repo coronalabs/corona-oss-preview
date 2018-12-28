@@ -44,7 +44,7 @@ Exhaustive Corona API documentation, as well as getting started and more advance
 ## Source Code and licensing
 Corona is dual-licensed under both a commercial and open source license.
 
-The commercial Corona license gives you the full rights to create and distribute software on your own terms without any open source license obligations. Binary distributions obtained from [coronalabs.com](https://coronalabs.com/) are using this license.
+The commercial Corona license gives you the full rights to customize the engine and distribute built apps on your own terms without any open source license obligations. Binary distributions obtained from [coronalabs.com](https://coronalabs.com/) are using this license.
 
 Corona is also available under the GPLv3 open source license. Corona open source licensing is ideal for use cases such as open source projects, research or educational purposes. See [LICENSE.GPL](LICENSE.GPL) for full text of GPL license.
 
